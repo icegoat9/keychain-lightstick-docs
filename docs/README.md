@@ -49,10 +49,11 @@ a thin protective coating over them), and it’s certainly not waterproof!
 ### Nerd Notes
 
 All the electronics except the battery are visible on the front. The square in
-the center is the STM32C031, a modern low-cost (under $1) microprocessor
-built from a few million transistors, which runs all the code.
+the center is the ![STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
+a modern low-cost (under $1) microprocessor built from a few million transistors, which runs all the code.
 
 I plan to put the PCB design files and source code online here at some point,
-once I clean them up.
+once I clean them up. If one of the handful of people who gets this is an engineer and you
+want to reprogram yours, just reach out. :)
 
 ![](IMG_8473.JPG)
