@@ -9,31 +9,31 @@ a keychain or clip through the hole at the bottom.
 <img src="lightstick_drawing.png" width="200">
 </td><td>
 <p>
-<b>Button 2</b>-- change pattern:
+<b>Button 1</b>-- change pattern:
 <ol>
 <li>side-to-side fade</li>
 <li>cosmic twinkle</li>
 <li>triple beat</li>
 </ol>
 </p><p>
-<b>Button 1:</b>
+<b>Button 2:</b>
 <ul>
 <li>Turn on (press and hold)</li>
 <li>Change color (most modes)</li>
 <li>Sync beat* (in beat mode)</li>
 </ul>
 </p>
-To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 2 to force it off.
+To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 1 to force it off.
 </td></tr></table>
 
 ### Sync Beat special mode
 
 There’s no microphone or Bluetooth on this so it can’t automatically sync to music, but if you’re in 
 Triple Beat mode (the one where all three LEDs flash at once), you can press
-Button 1 at least four times a row in sync with the music, and the device will
+Button 2 at least four times a row in sync with the music, and the device will
 adjust its flashing speed to match that rhythm.
 
-After you press Button 1 four times and let go, the device will show you
+After you press Button 2 four times and let go, the device will show you
 a quick green double-flash if it was able to match that beat, or a red double-flash
 if it doesn’t think you pressed the button at a consistent rhythm.
 
