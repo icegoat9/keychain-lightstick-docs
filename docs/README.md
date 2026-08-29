@@ -22,6 +22,7 @@ a keychain or clip through the hole at the bottom.
 <li>Change color (most modes)</li>
 <li>Sync beat* (in beat mode)</li>
 </ul>
+</p>
 To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 2 to force it off.
 </td></tr></table>
 
