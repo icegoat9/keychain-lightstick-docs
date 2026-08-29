@@ -1,5 +1,4 @@
-If you're here, you're probably one of a handful of people with the “keychain K-pop lightstick”, a small custom circuit board made by an ARMY Husband for his partner and friends before a series of shows. It's in a small 3D printed case, or you can remove the case and put it on
-a keychain or clip through the hole at the bottom.
+If you're here, you're probably one of a handful of people with the “keychain K-pop lightstick”, a small custom circuit board made by an ARMY Husband for his partner and friends before a series of shows. It's in a basic 3D printed case, or you can remove the case and put it on a keychain or clip through the hole at the bottom.
 
 <img src="lightstick_size.JPG" width="800">
 
@@ -29,7 +28,7 @@ To save battery, it turns itself off after ~30 seconds, or you can press and hol
 ### Sync Beat special mode
 
 There’s no microphone or Bluetooth on this so it can’t automatically sync to music, but if you’re in 
-Triple Beat mode (the one where all three LEDs flash at once), you can press
+Triple Beat mode (where all three LEDs flash at once), you can press
 Button 2 at least four times a row in sync with the music, and the device will
 adjust its flashing speed to match that rhythm.
 
@@ -50,17 +49,17 @@ It uses a common CR2032 coin cell. Be sure to insert + side up!
 
 **Disclaimer:**
 This is not a product, it’s a small batch prototype as giveaways for a concert, 
-so it will not last forever-- exposed components could get damaged, it's sensitive to
+so it will not last forever-- components are exposed and could get damaged, it's sensitive to
 static, and it’s certainly not waterproof!
 
 ### Nerd Notes
 
 All the electronics except the battery are visible on the front. The square in
 the center is the [STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
-a modern low-cost (under $1) microprocessor built from a few million transistors, which runs all the code.
+a modern 32-bit low-cost (under $1) microprocessor built from a few million transistors, which runs all the code.
 
-I plan to put the PCB design files and source code online here at some point,
-once I clean them up. If one of the handful of people who gets this is an engineer and you
-want to reprogram yours, just reach out.
+In some senses, this tiny chip has as much processing power as desktop computers from the 1990s... though far less memory (just 12kB, about as much as a few pages of printed text, or 1% the size of a single image taken on a modern cell phone camera). And here it is, put to work blinking some lights for us.
 
 ![](IMG_8473.JPG)
+
+
