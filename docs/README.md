@@ -8,17 +8,20 @@ a keychain or clip through the hole at the bottom.
 <table><tr><td>
 <img src="lightstick_drawing.png" width="200">
 </td><td>
-
-**Button 2:**  Change pattern:
-1. side-to-side fade
-2. cosmic twinkle
-3. triple beat 
-
-**Button 1:**
-* Turn on (press and hold)
-* Change color (most modes)
-* Sync beat* (in beat mode)
-
+<p>
+<b>Button 2</b>-- change pattern:
+<ol>
+<li>side-to-side fade</li>
+<li>cosmic twinkle</li>
+<li>triple beat</li>
+</ol>
+</p><p>
+<b>Button 1:</b>
+<ul>
+<li>Turn on (press and hold)</li>
+<li>Change color (most modes)</li>
+<li>Sync beat* (in beat mode)</li>
+</ul>
 To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 2 to force it off.
 </td></tr></table>
 
@@ -46,17 +49,17 @@ It uses a common CR2032 coin cell. Be sure to insert + side up!
 
 **Disclaimer:**
 This is not a product, it’s a small batch prototype as giveaways for a concert, 
-so it will not last forever-- the exposed components could get damaged (though there’s
-a thin protective coating over them), and it’s certainly not waterproof!
+so it will not last forever-- exposed components could get damaged, it's sensitive to
+static, and it’s certainly not waterproof!
 
 ### Nerd Notes
 
 All the electronics except the battery are visible on the front. The square in
-the center is the ![STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
+the center is the [STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
 a modern low-cost (under $1) microprocessor built from a few million transistors, which runs all the code.
 
 I plan to put the PCB design files and source code online here at some point,
 once I clean them up. If one of the handful of people who gets this is an engineer and you
-want to reprogram yours, just reach out. :)
+want to reprogram yours, just reach out.
 
 ![](IMG_8473.JPG)
