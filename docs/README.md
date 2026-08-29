@@ -5,7 +5,9 @@ a keychain or clip through the hole at the bottom.
 
 ## Overview
 
+<table><tr><td>
 <img src="lightstick_drawing.png" width="200">
+</td><td>
 
 **Button 2:**  Change pattern:
 1. side-to-side fade
@@ -18,6 +20,7 @@ a keychain or clip through the hole at the bottom.
 * Sync beat* (in beat mode)
 
 To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 2 to force it off.
+</td></tr></table>
 
 ### Sync Beat special mode
 
