@@ -18,8 +18,8 @@ If you're here, you're probably one of a handful of people with the “Keychain 
 <b>Button 2:</b>
 <ul>
 <li>Turn on (press and hold)</li>
-<li>Change color (most modes)</li>
-<li>Sync beat* (in beat mode)</li>
+<li>Change color (in most modes)</li>
+<li>Sync Beat (in beat mode)</li>
 </ul>
 </p>
 To save battery, it turns itself off after ~30 seconds, or you can press and hold Button 1 to force it off.
@@ -27,7 +27,7 @@ To save battery, it turns itself off after ~30 seconds, or you can press and hol
 
 ### Sync Beat special mode
 
-There’s no microphone or Bluetooth on this so it can’t automatically sync to music, but if you’re in 
+There’s no microphone or Bluetooth on this, so it can’t automatically sync to music, but if you’re in 
 Triple Beat mode (where all three LEDs flash at once), you can press Button 2 at least four times a row in sync with music you're listening to, and the device will adjust its flashing speed to match that rhythm.
 
 After you press Button 2 four times and let go, the device will show you
