@@ -52,9 +52,9 @@ This is not a product, it’s a small batch prototype as giveaways for a concert
 
 All the electronics except the battery are visible on the front. The square in
 the center is the [STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
-a modern 32-bit very-low-cost (less than $1) microprocessor built from a few million transistors, which runs all the code (this was my first time using this chip, which I'd wanted an excuse to learn about).
+a modern 32-bit very-low-cost (less than $1) microprocessor built from a few million transistors, which runs all the code.
 
-In some ways, this little chip has as much processing power as desktop computers from the 1990s... but also 100x to 1000x less power than a modern cell phone (with 12kB of memory, just enough to hold a few pages of text or 1% of a photo). And here it is, put to work blinking some lights for us.
+In some ways, this little chip has as much processing power as desktop computers from the 1990s... but also 100x to 1000x less power than a modern cell phone (with 12kB of memory, just enough to hold a few pages of text or 1% of a photo).
 
 ![](IMG_8473.JPG)
 
