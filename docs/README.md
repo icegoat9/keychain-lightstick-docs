@@ -1,4 +1,4 @@
-If you're here, you're probably one of a handful of people with the “keychain K-pop lightstick”, a small custom circuit board made by an ARMY Husband for his partner and friends before a series of shows. It's in a basic 3D printed case, or you can remove the case and put it on a keychain or clip through the hole at the bottom.
+If you're here, you're probably one of a handful of people with the “Keychain K-pop Lightstick”, a small custom circuit board made by an ARMY Husband for his wife and friends before the BTS Arirang World Tour in Los Angeles.  It's in a basic 3D printed case, or you can remove the case and put it on a keychain or clip using the hole at the bottom.
 
 <img src="lightstick_size.JPG" width="800">
 
@@ -28,9 +28,7 @@ To save battery, it turns itself off after ~30 seconds, or you can press and hol
 ### Sync Beat special mode
 
 There’s no microphone or Bluetooth on this so it can’t automatically sync to music, but if you’re in 
-Triple Beat mode (where all three LEDs flash at once), you can press
-Button 2 at least four times a row in sync with the music, and the device will
-adjust its flashing speed to match that rhythm.
+Triple Beat mode (where all three LEDs flash at once), you can press Button 2 at least four times a row in sync with music you're listening to, and the device will adjust its flashing speed to match that rhythm.
 
 After you press Button 2 four times and let go, the device will show you
 a quick green double-flash if it was able to match that beat, or a red double-flash
@@ -38,7 +36,7 @@ if it doesn’t think you pressed the button at a consistent rhythm.
 
 ### Maintenance
 
-The device has an automatic low-power sleep mode so the battery should last a very
+The device has an automatic low-power sleep mode so the battery should last a 
 long time when not being used (you don't have to remove the battery for storage).
 If you do want to replace the battery, remove the front screw with a 2mm hex key,
 then shake the circuit board out of its shell (if it’s stuck, you can push it out
@@ -48,17 +46,15 @@ It uses a common CR2032 coin cell. Be sure to insert + side up!
 ![](IMG_8464.JPG)![](IMG_8467.JPG)
 
 **Disclaimer:**
-This is not a product, it’s a small batch prototype as giveaways for a concert, 
-so it will not last forever-- components are exposed and could get damaged, it's sensitive to
-static, and it’s certainly not waterproof!
+This is not a product, it’s a small batch prototype as giveaways for a concert,  so it will not last forever-- components are exposed and could get damaged, it's sensitive to static, and it’s certainly not waterproof!
 
 ### Nerd Notes
 
 All the electronics except the battery are visible on the front. The square in
 the center is the [STM32C031](https://www.st.com/en/microcontrollers-microprocessors/stm32c031c4.html), 
-a modern 32-bit low-cost (under $1) microprocessor built from a few million transistors, which runs all the code.
+a modern 32-bit very-low-cost (less than $1) microprocessor built from a few million transistors, which runs all the code (this was my first time using this chip, but I'd wanted an excuse to learn about it).
 
-In some senses, this tiny chip has as much processing power as desktop computers from the 1990s... though far less memory (just 12kB, about as much as a few pages of printed text, or 1% the size of a single image taken on a modern cell phone camera). And here it is, put to work blinking some lights for us.
+In some ways, this little chip has as much processing power as desktop computers from the 1990s... and also 100x to 1000x less power than a modern cell phone (with 12kB of memory, enough to hold a few pages of text or 1% of a photo). And here it is, put to work blinking some lights for us.
 
 ![](IMG_8473.JPG)
 
